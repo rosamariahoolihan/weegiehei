@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iechaingoh.geek.monster/sitemap.xml
